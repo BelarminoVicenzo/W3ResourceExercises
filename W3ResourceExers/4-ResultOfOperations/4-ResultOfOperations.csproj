@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDC1696C-80CE-417D-B07F-BE94328E5EC0}</ProjectGuid>
+    <ProjectGuid>{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1_HelloName</RootNamespace>
-    <AssemblyName>1-HelloName</AssemblyName>
+    <RootNamespace>_4_ResultOfOperations</RootNamespace>
+    <AssemblyName>4-ResultOfOperations</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,14 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloName.cs" />
+    <Compile Include="ResultsOfOperations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

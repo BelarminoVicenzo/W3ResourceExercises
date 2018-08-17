@@ -1,0 +1,1 @@
+﻿Exercise 2 and 3, will also be resolved on this solution

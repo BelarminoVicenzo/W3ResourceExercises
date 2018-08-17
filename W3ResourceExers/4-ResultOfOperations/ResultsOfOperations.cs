@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1_HelloName
+namespace _4_ResultOfOperations
 {
-    class Program
+    class ResultsOfOperations
     {
         static void Main(string[] args)
         {
-
-
         }
     }
 }
