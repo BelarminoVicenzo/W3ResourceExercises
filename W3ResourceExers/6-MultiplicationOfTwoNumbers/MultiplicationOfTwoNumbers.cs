@@ -52,8 +52,23 @@ namespace _6_MultiplicationOfTwoNumbers
             Console.Write("#3: ");
             number3 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Answer for 6. \n" +
-                "{0}x{1}x{2}=({3})", number1, number2, number3,(number1*number2*number3));
+            Console.WriteLine("Answer for 6. \n\n" +
+                "{0}x{1}x{2}=({3})", number1, number2, number3, (number1 * number2 * number3));
+
+            // 7.
+            // I«m going to use number1 and number2
+            Console.WriteLine("-----------------------\n\n");
+
+            //    x mod y = 1
+            Console.WriteLine("Answers for 7.\n");
+            Console.WriteLine("{0} + {1}={2}\n", number1, number2, (number1 + number2));
+            Console.WriteLine("{0} - {1}={2}\n", number1, number2, (number1 - number2));
+            Console.WriteLine("{0} x {1}={2}\n", number1, number2, (number1 * number2));
+            Console.WriteLine("{0} / {1}={2}\n", number1, number2, (number1 / number2));
+            Console.WriteLine("{0} % {1}={2}\n", number1, number2, (number1 % number2));
+
+
+
         }
     }
 }

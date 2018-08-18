@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-SwapTwoNumbers", "5-SwapT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-MultiplicationOfTwoNumbers", "6-MultiplicationOfTwoNumbers\6-MultiplicationOfTwoNumbers.csproj", "{46C0D54B-871D-4833-8461-AA15AC057774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-MultiplicationTable", "8-MultiplicationTable\8-MultiplicationTable.csproj", "{B6F8245B-9C94-4FB4-89A8-385372A14937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Average", "9-Average\9-Average.csproj", "{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{46C0D54B-871D-4833-8461-AA15AC057774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C0D54B-871D-4833-8461-AA15AC057774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C0D54B-871D-4833-8461-AA15AC057774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F8245B-9C94-4FB4-89A8-385372A14937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F8245B-9C94-4FB4-89A8-385372A14937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F8245B-9C94-4FB4-89A8-385372A14937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F8245B-9C94-4FB4-89A8-385372A14937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
