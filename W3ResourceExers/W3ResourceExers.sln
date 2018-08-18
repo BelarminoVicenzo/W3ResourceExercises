@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-HelloName", "1-HelloName\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ResultOfOperations", "4-ResultOfOperations\4-ResultOfOperations.csproj", "{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-SwapTwoNumbers", "5-SwapTwoNumbers\5-SwapTwoNumbers.csproj", "{B1909CDF-51B5-4563-B71B-B010EA5BE952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1909CDF-51B5-4563-B71B-B010EA5BE952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1909CDF-51B5-4563-B71B-B010EA5BE952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1909CDF-51B5-4563-B71B-B010EA5BE952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1909CDF-51B5-4563-B71B-B010EA5BE952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
