@@ -25,32 +25,7 @@ namespace _10_ThreeNumbersInput
         */
 
 
-        /*
 
-            11. Write a C# Sharp program that takes an age (for example 20) 
-            as input and prints something as
-            "You look older than 20"
-            
-            Test Data:
-            Enter your age - 25
-            Expected Output:
-            You look older than 25
-    
-         */
-        /*
-          12. Write a C# program to that takes a number as input and
-          display it four times in a row (separated by blank spaces),
-          and then four times in the next row, with no separation.
-          You should do it two times: Use Console. Write and then use {0}.
-         
-            Test Data:
-            Enter a digit: 25
-            Expected Output:
-            25 25 25 25
-            25252525
-            25 25 25 25
-            25252525
-         */
 
         static void Main(string[] args)
         {
