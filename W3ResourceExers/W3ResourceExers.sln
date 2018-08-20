@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-MultiplicationTable", "8-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Average", "9-Average\9-Average.csproj", "{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-ThreeNumbersInput", "10-ThreeNumbersInput\10-ThreeNumbersInput.csproj", "{D6F44376-07EB-4667-9D28-2FEA757910D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F44376-07EB-4667-9D28-2FEA757910D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F44376-07EB-4667-9D28-2FEA757910D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F44376-07EB-4667-9D28-2FEA757910D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F44376-07EB-4667-9D28-2FEA757910D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

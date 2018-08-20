@@ -25,6 +25,24 @@ namespace _8_MultiplicationTable
 
         static void Main(string[] args)
         {
+            double number = 0;
+
+            int counter = 0;
+            // I will only make form 0 to 12
+            //I know I can make more, but to make the output small I won't use more than 12
+
+            Console.WriteLine("Please insert a number ");
+
+            number = double.Parse(Console.ReadLine());
+            Console.WriteLine("The number is: " + number);
+            do
+            {
+                //I didn't wanted to use concatenation, but I'm
+                //not that good with string interpolation
+                Console.WriteLine($"{number + "*" + counter} = {(number * counter)}");
+                counter++;
+            } while (counter < 13);
+
         }
     }
 }
