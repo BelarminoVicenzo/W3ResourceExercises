@@ -25,7 +25,17 @@ namespace _9_Average
             */
         static void Main(string[] args)
         {
+            //I could use an array, but I don't want to
+            int number = 0;
 
+            Console.WriteLine("Please write four numbers");
+
+            for (int i = 1; i < 5; i++)
+            {
+                number += int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine($"The average is: {(number/4)}");
         }
     }
 }
