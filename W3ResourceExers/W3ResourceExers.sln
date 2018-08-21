@@ -3,41 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3ResourceExers", "W3ResourceExers\W3ResourceExers.csproj", "{CE689BB3-BB0D-4C5A-93C8-B67493B011B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00W3ResourceExers", "W3ResourceExers\00W3ResourceExers.csproj", "{CE689BB3-BB0D-4C5A-93C8-B67493B011B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-HelloName", "1-HelloName\1-HelloName.csproj", "{EDC1696C-80CE-417D-B07F-BE94328E5EC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HelloName", "1-HelloName\01_HelloName.csproj", "{EDC1696C-80CE-417D-B07F-BE94328E5EC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ResultOfOperations", "4-ResultOfOperations\4-ResultOfOperations.csproj", "{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ResultOfOperations", "4-ResultOfOperations\04_ResultOfOperations.csproj", "{38D8AF8B-61E4-4A6C-BE4C-4ADDAF74ED66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-SwapTwoNumbers", "5-SwapTwoNumbers\5-SwapTwoNumbers.csproj", "{B1909CDF-51B5-4563-B71B-B010EA5BE952}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_SwapTwoNumbers", "5-SwapTwoNumbers\05_SwapTwoNumbers.csproj", "{B1909CDF-51B5-4563-B71B-B010EA5BE952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-MultiplicationOfTwoNumbers", "6-MultiplicationOfTwoNumbers\6-MultiplicationOfTwoNumbers.csproj", "{46C0D54B-871D-4833-8461-AA15AC057774}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_MultiplicationOfTwoNumbers", "6-MultiplicationOfTwoNumbers\06_MultiplicationOfTwoNumbers.csproj", "{46C0D54B-871D-4833-8461-AA15AC057774}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-MultiplicationTable", "8-MultiplicationTable\8-MultiplicationTable.csproj", "{B6F8245B-9C94-4FB4-89A8-385372A14937}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_MultiplicationTable", "8-MultiplicationTable\08_MultiplicationTable.csproj", "{B6F8245B-9C94-4FB4-89A8-385372A14937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Average", "9-Average\9-Average.csproj", "{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Average", "9-Average\09_Average.csproj", "{8D2916B8-E60C-4BC9-809A-CEB36A73C7B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-ThreeNumbersInput", "10-ThreeNumbersInput\10-ThreeNumbersInput.csproj", "{D6F44376-07EB-4667-9D28-2FEA757910D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ThreeNumbersInput", "10-ThreeNumbersInput\10_ThreeNumbersInput.csproj", "{D6F44376-07EB-4667-9D28-2FEA757910D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-AgeULookOlder", "11-AgeULookOlder\11-AgeULookOlder.csproj", "{F4EF84D0-9505-40CC-A33C-A8BBCE96BEDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_AgeULookOlder", "11-AgeULookOlder\11_AgeULookOlder.csproj", "{F4EF84D0-9505-40CC-A33C-A8BBCE96BEDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-FourTimesInARow", "12-FourTimesInARow\12-FourTimesInARow.csproj", "{C730608B-B8BD-49BF-BF56-75CAD4FA2BC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_FourTimesInARow", "12-FourTimesInARow\12_FourTimesInARow.csproj", "{C730608B-B8BD-49BF-BF56-75CAD4FA2BC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Rectangle", "13-Rectangle\13-Rectangle.csproj", "{BE184D8D-08E3-4948-9DA6-0DD77E61FB18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Rectangle", "13-Rectangle\13_Rectangle.csproj", "{BE184D8D-08E3-4948-9DA6-0DD77E61FB18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-TemperatureConverter", "14-TemperatureConverter\14-TemperatureConverter.csproj", "{EC2DD082-1565-4AF2-BCE5-6650F7C09132}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_TemperatureConverter", "14-TemperatureConverter\14_TemperatureConverter.csproj", "{EC2DD082-1565-4AF2-BCE5-6650F7C09132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-StringRemoverAtIndex", "15-StringRemoverAtIndex\15-StringRemoverAtIndex.csproj", "{E1C7FE44-2582-4946-B9CF-D8361F6A56C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_StringRemoverAtIndex", "15-StringRemoverAtIndex\15_StringRemoverAtIndex.csproj", "{E1C7FE44-2582-4946-B9CF-D8361F6A56C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-StringPositionChanger", "16-StringPositionChanger\16-StringPositionChanger.csproj", "{DAFB174C-5D8B-4A1A-A58A-B46CFB866E1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_StringPositionChanger", "16-StringPositionChanger\16_StringPositionChanger.csproj", "{DAFB174C-5D8B-4A1A-A58A-B46CFB866E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-CreateANewString", "17-CreateANewString\17-CreateANewString.csproj", "{4317BD3F-2B08-405C-983B-E940D7136164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_CreateANewString", "17-CreateANewString\17_CreateANewString.csproj", "{4317BD3F-2B08-405C-983B-E940D7136164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-PositiveNegativeChecker", "18-PositiveNegativeChecker\18-PositiveNegativeChecker.csproj", "{35D65E24-FAF8-4AF2-9991-DB1FFF8DCBBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_PositiveNegativeChecker", "18-PositiveNegativeChecker\18_PositiveNegativeChecker.csproj", "{35D65E24-FAF8-4AF2-9991-DB1FFF8DCBBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-ComputeTheSum", "19-ComputeTheSum\19-ComputeTheSum.csproj", "{915CF33A-04BB-44E2-A924-73D85048F5D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_ComputeTheSum", "19-ComputeTheSum\19_ComputeTheSum.csproj", "{915CF33A-04BB-44E2-A924-73D85048F5D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-AbsoluteValueOfDifference", "20-AbsoluteValueOfDifference\20-AbsoluteValueOfDifference.csproj", "{BA4AD06C-602E-46CB-849B-463A1C897EE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_AbsoluteValueOfDifference", "20-AbsoluteValueOfDifference\20_AbsoluteValueOfDifference.csproj", "{BA4AD06C-602E-46CB-849B-463A1C897EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
