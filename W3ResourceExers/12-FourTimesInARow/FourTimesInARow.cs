@@ -30,7 +30,7 @@ namespace _12_FourTimesInARow
             string displayTogether = "";
             for (int i = 0; i < 4; i++)
             {
-                displayTogether += $"{number} ".ToString();
+                displayTogether += $"{number} ";
             }
 
             return displayTogether;
@@ -43,7 +43,7 @@ namespace _12_FourTimesInARow
             string displayWithout = "";
             for (int i = 0; i < 4; i++)
             {
-                displayWithout += $"{number}".ToString();
+                displayWithout += $"{number}";
             }
 
             return displayWithout;
