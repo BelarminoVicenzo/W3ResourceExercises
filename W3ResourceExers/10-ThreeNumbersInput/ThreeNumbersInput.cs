@@ -42,7 +42,9 @@ namespace _10_ThreeNumbersInput
             Console.Write("#3: ");
             z = double.Parse(Console.ReadLine());
 
+            // x+y*z
             Console.WriteLine($"({x}+{y}).{z}={(x + y) * z}");
+            //x*y+y*z
             Console.WriteLine($"({x}.{y})+({y}.{z})= {(x * y) + (y * z)}");
         }
     }

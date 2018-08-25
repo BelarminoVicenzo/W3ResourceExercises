@@ -17,6 +17,7 @@ namespace _30_ConvertFromHexToDec
         //Click me to see the solution
         static void Main(string[] args)
         {
+
         }
     }
 }
