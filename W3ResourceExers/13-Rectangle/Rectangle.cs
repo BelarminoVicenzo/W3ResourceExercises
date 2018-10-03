@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _13_Rectangle
 {
-    class Rectangle
+    internal class Rectangle
     {
 
         // 13. Write a C# program that takes a number as input and 
@@ -20,8 +16,27 @@ namespace _13_Rectangle
         // 5 5
         // 5 5
         // 555
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+
+            int number = default(int);
+
+            Console.WriteLine("Please enter a integer number");
+            number = Convert.ToInt32(Console.ReadLine());
+
+
+
+            Console.Write("{0}{0}{0}", number);
+            Console.WriteLine();
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("{0} {0}",number);
+            }
+            Console.Write("{0}{0}{0}", number);
+
+
+            Console.ReadLine();
+
         }
     }
 }
