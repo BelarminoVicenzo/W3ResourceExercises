@@ -6,18 +6,23 @@ using System.Threading.Tasks;
 
 namespace _15_StringRemoverAtIndex
 {
-    class StringRemoverAtIndex
+    internal class StringRemoverAtIndex
     {
 
-        //        15. Write a C# program remove specified a character from a non-empty string using index of a character. Go to the editor
+        //15. Write a C# program remove specified a character from a non-empty string using index of a character.
+        //Go to the editor
         //Test Data:
         //w3resource
         //Sample Output:
         //wresource
         //w3resourc
         //3resource
-        static void Main(string[] args)
+
+
+        private static void Main(string[] args)
         {
+            string s = "";
+
         }
     }
 }
