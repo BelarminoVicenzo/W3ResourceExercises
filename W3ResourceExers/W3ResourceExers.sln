@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_PositiveNumberMultipleOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_StringStartsWith", "34_StringStartsWith\34_StringStartsWith.csproj", "{7A7409E0-B5C2-4E7B-904C-B880300DF1BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_GreaterThan100AndLessThan200", "35_GreaterThan100AndLessThan200\35_GreaterThan100AndLessThan200.csproj", "{A2C92C9E-BCCB-4E71-9AAF-0855412A0DF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{7A7409E0-B5C2-4E7B-904C-B880300DF1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A7409E0-B5C2-4E7B-904C-B880300DF1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A7409E0-B5C2-4E7B-904C-B880300DF1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C92C9E-BCCB-4E71-9AAF-0855412A0DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C92C9E-BCCB-4E71-9AAF-0855412A0DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C92C9E-BCCB-4E71-9AAF-0855412A0DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C92C9E-BCCB-4E71-9AAF-0855412A0DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

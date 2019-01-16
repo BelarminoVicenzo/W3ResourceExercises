@@ -21,7 +21,14 @@ namespace _15_StringRemoverAtIndex
 
         private static void Main(string[] args)
         {
-            string s = "";
+            string wrongName = "Narutos Shippuden";
+
+
+            Console.WriteLine("Wrong name: {0}",wrongName);
+            
+
+            Console.WriteLine("Correct name: {0}",wrongName.Remove(wrongName.IndexOf('s'),1));
+            Console.ReadKey();
 
         }
     }

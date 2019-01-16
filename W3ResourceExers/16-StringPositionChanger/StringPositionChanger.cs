@@ -19,6 +19,11 @@ namespace _16_StringPositionChanger
         //x
         static void Main(string[] args)
         {
+
+
+
+            Console.ReadKey();
+
         }
     }
 }
