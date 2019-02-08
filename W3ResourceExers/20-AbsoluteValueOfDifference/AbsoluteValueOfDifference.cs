@@ -18,9 +18,9 @@ namespace _20_AbsoluteValueOfDifference
             double firstNumber=default(double);
             double secondNumber=default(double);
 
-            Console.WriteLine("Type the first Integer");
+            Console.WriteLine("Type the first number");
             firstNumber = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Type the second Integer");
+            Console.WriteLine("Type the second number");
             secondNumber = Convert.ToDouble(Console.ReadLine());
 
             var theDiference = firstNumber - secondNumber;
