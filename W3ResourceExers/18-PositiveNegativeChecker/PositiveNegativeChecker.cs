@@ -19,6 +19,35 @@ namespace _18_PositiveNegativeChecker
         //True
         static void Main(string[] args)
         {
+            int firstInteger = default(int);
+            int secondInteger = default(int);
+
+            Console.WriteLine("Type the first Integer");
+            firstInteger = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Type the second Integer");
+            secondInteger = Convert.ToInt32(Console.ReadLine());
+
+
+
+            //if one of them is positive, he will be 0 or bigger than 0
+            if (firstInteger >= 0 && secondInteger >= 0)
+            {
+                Console.WriteLine("false");
+            }
+            //if one of them is negative, he will be smaller than zero
+            else if (firstInteger < 0 && secondInteger > 0 || firstInteger > 0 && secondInteger < 0)
+            {
+                Console.WriteLine("true");
+
+            }
+            else
+            {
+                Console.WriteLine("IDK");
+            }
+
+            Console.ReadLine();
         }
+
     }
 }
