@@ -9,7 +9,7 @@ namespace _18_PositiveNegativeChecker
     class PositiveNegativeChecker
     {
 
-        //        18. Write a C# program to check two given integers and return true if one is negative and one is positive. Go to the editor
+        //18. Write a C# program to check two given integers and return true if one is negative and one is positive. Go to the editor
         //Sample Output:
         //Input first integer:
         //-5

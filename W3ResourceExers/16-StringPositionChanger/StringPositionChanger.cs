@@ -22,11 +22,9 @@ namespace _16_StringPositionChanger
         {
 
             string oldString = "ene PiecO";
-
             StringBuilder builder = new StringBuilder();
 
             builder.Append(oldString.Substring(oldString.Length-1, 1));
-
             builder.Append(oldString.Substring(1, oldString.Length - 2));
             builder.Append(oldString.Substring(0,1));
 
