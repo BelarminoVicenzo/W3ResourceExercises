@@ -16,6 +16,27 @@ namespace _21_IsTwentyOrEqual
         //Click me to see the solution
         static void Main(string[] args)
         {
+            //sorry to copy, but... Repeating all this
+            //first namuber and stuff all the time?
+            //CTRL+C/V...
+
+            double firstNumber = default(double);
+            double secondNumber = default(double);
+
+            Console.WriteLine("Type the first number");
+            firstNumber = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Type the second number");
+            secondNumber = Convert.ToDouble(Console.ReadLine());
+            bool isTwenty = false;
+
+            if ((firstNumber+secondNumber)==20 || firstNumber==20 || secondNumber==20)
+            {
+                isTwenty = true;
+            }
+            Console.WriteLine("Result: "+isTwenty);
+
+
+            Console.ReadKey();
         }
     }
 }
