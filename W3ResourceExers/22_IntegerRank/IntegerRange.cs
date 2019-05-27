@@ -6,17 +6,23 @@ using System.Threading.Tasks;
 
 namespace _22_IntegerRange
 {
-    class Program
+    class IntegerRange
     {
 
-//        22. Write a C# program to check if an given integer is within 20 of 100 or 200. Go to the editor
-//Sample Output:
-//Input an integer:
-//25
-//False
-//Click me to see the solution
+        // 22. Write a C# program to check if an 
+        //given integer is within 20 of 100 or 200. Go to the editor
+       //Sample Output:
+       //Input an integer:
+       //25
+       //False
+       
         static void Main(string[] args)
         {
+
+            //cant understand the phrase : is within 20 of 100 or 200
+            //skipping for now
+
+            Console.ReadLine();
         }
     }
 }
